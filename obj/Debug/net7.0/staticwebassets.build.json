@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Szk+ugCe7BCK606GQ/HuypQW8R3ZRdWKT0sTBzMXmsY=",
+  "Source": "PollingWebApi",
+  "BasePath": "_content/PollingWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
